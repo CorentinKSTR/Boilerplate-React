@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Boilerplate React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Boilerplate React repository! This project provides a solid foundation for building web applications using React, SASS, Bootstrap, and other essential tools. Whether you're starting a new project or want to streamline your development process, this boilerplate has got you covered.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **React:** A powerful JavaScript library for building user interfaces.
+- **SASS:** A preprocessor scripting language that is interpreted or compiled into CSS.
+- **Bootstrap:** A popular CSS framework for building responsive and visually appealing web applications.
+- **Prettier:** An opinionated code formatter that ensures consistent code styling.
+- **Husky:** A Git hook manager to enhance your development workflow.
+- **Jest:** A JavaScript testing framework for writing and running tests.
 
-### `npm start`
+## Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Before you get started, make sure you have the following prerequisites installed on your system:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Node.js:** Version 18 or higher is required to run this project. You can download it from [nodejs.org](https://nodejs.org/).
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these steps to get the Boilerplate React project up and running on your local environment:
 
-### `npm run build`
+1. Clone the repository to your local machine using Git:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```shell
+   git clone https://github.com/CorentinKSTR/Boilerplate-React.git
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Change your current directory to the project's folder:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```shell
+   cd Boilerplate-React
+   ```
 
-### `npm run eject`
+3. Install project dependencies using npm:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```shell
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Once the installation is complete, you can start the development server with live reload:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```shell
+   npm run dev
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You're now ready to start working on your React project using this boilerplate. Happy coding!
